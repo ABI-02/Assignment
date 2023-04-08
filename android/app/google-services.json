@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812946502816",
+    "project_id": "abin-chan",
+    "storage_bucket": "abin-chan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812946502816:android:317ecade8552f994ee45c5",
+        "android_client_info": {
+          "package_name": "com.bloopdex.abinchan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812946502816-fcv24nvaoibfb64e8qo938eapg00u4tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCRmG-svNFVIR9XlHiTUWIA3rizd6SO9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812946502816-fcv24nvaoibfb64e8qo938eapg00u4tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
